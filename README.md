@@ -1,25 +1,27 @@
 Codi pel BLOC II de l'assignatura "Tractament de Dades Textuals i Codificades": **El PLN i les seves aplicacions en l’àmbit clínic**.
 
-Es cobriran els següents punts (en procés de creació):
-
 I. Processament de text amb NLTK i spaCy
 
 1. Python per a PLN: llistes, strings i corpus
 
-- Preprocessament: tokenització, neteja, freqüències.
-- Extracció d’informació amb NLTK.
+- TDTC_0: repàs Python
+- TDTC_1: List comprehensions, lectura fitxers
 
-2. Introducció a NLTK: tokenització i n-grames
+2. Introducció a NLTK i spaCy
 
-- Processament avançat amb spaCy: detecció de patrons, introducció als embeddings.
-
-3. Introducció a spaCy I
-4. Introducció a spaCy II
-5. Introducció a spaCy III
+- TDTC_2: Introducció a NLTK: tokenització i n-grames
+- TDTC_3: Part-of-Speech (PoS) Tagging
+- TDTC_4: spaCy I — NER i detecció de patrons
+- TDTC_5: spaCy II: Pipelines clíniques amb CARMEN-I
 
 II. Models de llenguatge: de N-grames a LLMs
 
+- TDTC_6: Models del llenguatge (amb n-grames)
+
 - Models de llenguatge amb N-grames: implementació amb numpy.
+
+(en procés de creació):
+
 - Introducció als LLMs: arquitectura, ús de Hugging Face.
 - Adaptació de models petits per a tasques clíniques.
 
