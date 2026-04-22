@@ -17,8 +17,7 @@ I. Processament de text amb NLTK i spaCy
 II. Models de llenguatge: de N-grames a LLMs
 
 - TDTC_6: Models del llenguatge (amb n-grames)
-
-- Models de llenguatge amb N-grames: implementació amb numpy.
+- TDTC_7: Embeddings
 
 (en procés de creació):
 
